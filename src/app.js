@@ -1,4 +1,4 @@
-console.log("Update from A");
+console.log("Hello from A - Conflict");
 console.log("Update from A");
 console.log("Feature FF");
 console.log("Feature FF");
